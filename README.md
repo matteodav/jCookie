@@ -1,0 +1,4 @@
+jCookie
+=======
+
+jQuery Cookie Plugin
